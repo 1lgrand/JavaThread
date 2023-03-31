@@ -13,7 +13,7 @@ public class Main {
         for (i=0;i<nThread;i++){
             Thread t = new myThread(String.valueOf(i)); //Converte i (Un numero) in stringa, per il nome
             t.start();
-            t.join();
+            t.join(); // Il JOIN consente di avviare un thread e di avviarne un altro
         }
     }
 }
