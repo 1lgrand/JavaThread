@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AccediAllaVariabile_1/AccediAllaVariabile_1.iml" filepath="$PROJECT_DIR$/AccediAllaVariabile_1/AccediAllaVariabile_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccediAllaVariabile/AccediAllaVariabile_1.iml" filepath="$PROJECT_DIR$/AccediAllaVariabile/AccediAllaVariabile_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaThread.iml" filepath="$PROJECT_DIR$/.idea/JavaThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/StampaInModoOrdinato/StampaInModoOrdinato.iml" filepath="$PROJECT_DIR$/StampaInModoOrdinato/StampaInModoOrdinato.iml" />
     </modules>

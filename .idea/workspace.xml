@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d218f5f-8c51-42f9-b29f-ec2f148cbeb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AccediAllaVariabile_1/AccediAllaVariabile_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AccediAllaVariabile_1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AccediAllaVariabile_1/src/myThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccediAllaVariabile_2/AccediAllaVariabile_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccediAllaVariabile_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccediAllaVariabile_2/src/myThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
